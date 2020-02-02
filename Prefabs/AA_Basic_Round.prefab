@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7398306005119906027}
   - component: {fileID: 7398306005119906026}
   - component: {fileID: 7398306005119906025}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: AA_Basic_Round
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -48,6 +48,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:

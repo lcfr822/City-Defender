@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: ac7e110b479b4c8469a3b4f7cefc0028
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7909266193949564620
+    second: AA_Enemy_Fighter_Effects_0
+  - first:
+      213: -5584612774413299028
+    second: AA_Enemy_Fighter_Effects_1
+  - first:
+      213: 1773124917008700140
+    second: AA_Enemy_Fighter_Effects_2
+  - first:
+      213: -1632442135915454644
+    second: AA_Enemy_Fighter_Effects_3
+  - first:
+      213: 4823866145751478746
+    second: AA_Enemy_Fighter_Effects_4
+  - first:
+      213: -3104376302932999595
+    second: AA_Enemy_Fighter_Effects_5
+  - first:
+      213: -6692989132138637507
+    second: AA_Enemy_Fighter_Effects_6
+  - first:
+      213: 6595020392857461840
+    second: AA_Enemy_Fighter_Effects_7
+  - first:
+      213: -1000754968062561581
+    second: AA_Enemy_Fighter_Effects_8
+  - first:
+      213: -789658040681632031
+    second: AA_Enemy_Fighter_Effects_9
+  - first:
+      213: -3086122538036482057
+    second: AA_Enemy_Fighter_Effects_10
+  - first:
+      213: 6134687547264787957
+    second: AA_Enemy_Fighter_Effects_11
+  - first:
+      213: -8385569312827204684
+    second: AA_Enemy_Fighter_Effects_12
+  - first:
+      213: 4067163953213649183
+    second: AA_Enemy_Fighter_Effects_13
+  - first:
+      213: 643818302205887960
+    second: AA_Enemy_Fighter_Effects_14
+  - first:
+      213: -4060706994002432963
+    second: AA_Enemy_Fighter_Effects_15
+  - first:
+      213: 5521325501269137267
+    second: AA_Enemy_Fighter_Effects_16
+  - first:
+      213: -8838264802178531499
+    second: AA_Enemy_Fighter_Effects_17
+  - first:
+      213: 8998287475080696289
+    second: AA_Enemy_Fighter_Effects_18
+  - first:
+      213: -1573624817475473223
+    second: AA_Enemy_Fighter_Effects_19
+  - first:
+      213: 6061825308511416420
+    second: AA_Enemy_Fighter_Effects_20
+  - first:
+      213: -9028632135661213808
+    second: AA_Enemy_Fighter_Effects_21
+  - first:
+      213: 6116171703673890967
+    second: AA_Enemy_Fighter_Effects_22
+  - first:
+      213: 4821599562759312827
+    second: AA_Enemy_Fighter_Effects_23
+  - first:
+      213: -5766886913840387055
+    second: AA_Enemy_Fighter_Effects_24
+  - first:
+      213: 8342421299692101373
+    second: AA_Enemy_Fighter_Effects_25
+  - first:
+      213: -747048402543823562
+    second: AA_Enemy_Fighter_Effects_26
+  - first:
+      213: 8959825636521701265
+    second: AA_Enemy_Fighter_Effects_27
+  - first:
+      213: -1603308038830134481
+    second: AA_Enemy_Fighter_Effects_28
+  - first:
+      213: 4380780251803116557
+    second: AA_Enemy_Fighter_Effects_29
+  - first:
+      213: 5847911633056352413
+    second: AA_Enemy_Fighter_Effects_30
+  - first:
+      213: 9160884712073929117
+    second: AA_Enemy_Fighter_Effects_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AA_Enemy_Fighter_Effects_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce9e54c2bb53cd60800000000000000
+      internalID: 7909266193949564620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AA_Enemy_Fighter_Effects_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca29cfc25487f72b0800000000000000
+      internalID: -5584612774413299028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AA_Enemy_Fighter_Effects_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce292b4b7b76b9810800000000000000
+      internalID: 1773124917008700140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AA_Enemy_Fighter_Effects_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f1164c6866859e0800000000000000
+      internalID: -1632442135915454644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AA_Enemy_Fighter_Effects_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1bc8d93b0d1f240800000000000000
+      internalID: 4823866145751478746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AA_Enemy_Fighter_Effects_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552c98e333a0be4d0800000000000000
+      internalID: -3104376302932999595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AA_Enemy_Fighter_Effects_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37935568d9bd13a0800000000000000
+      internalID: -6692989132138637507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AA_Enemy_Fighter_Effects_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e9bafa18368b50800000000000000
+      internalID: 6595020392857461840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AA_Enemy_Fighter_Effects_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d27c65a8aa9c12f0800000000000000
+      internalID: -1000754968062561581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
